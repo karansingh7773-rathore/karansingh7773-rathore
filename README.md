@@ -10,7 +10,7 @@
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karansingh7773rathore)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6c3ce9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/karansingh-7773rathore)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6c3ce9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/karansingh7773-rathore)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karansinghrathore7773@gmail.com)
 
 </div>
@@ -36,18 +36,28 @@ me.say_hi()
 
 <br/>
 
-## 🚀 Currently Building
+## 🚀 Currently Building — VocalizeAI
 
 <div align="center">
 
-<a href="https://github.com/karansingh-7773rathore">
-<img src="https://img.shields.io/badge/🎙️_VocalizeAI-AI_Voice_Agent-6c3ce9?style=for-the-badge&labelColor=0d1117" />
+<a href="https://karanscallagentvocalizeai.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Live_Demo-VocalizeAI-6c3ce9?style=for-the-badge&labelColor=0d1117" />
+</a>
+&nbsp;
+<a href="https://github.com/karansingh7773-rathore/KaransCallAgentVocalizeAI">
+<img src="https://img.shields.io/badge/📦_Source_Code-GitHub-1a1b27?style=for-the-badge&labelColor=0d1117&logo=github" />
 </a>
 
 <br/><br/>
 
 > **VocalizeAI** — An AI Voice Agent that performs tasks using just your voice commands.  
 > *Think of it as your personal AI assistant that listens, understands, and acts — no buttons needed.*
+
+<br/>
+
+<a href="https://karanscallagentvocalizeai.vercel.app/">
+<img src="public/Screenshot 2026-02-24 144112.png" alt="VocalizeAI Preview" width="85%" style="border-radius: 12px; border: 2px solid #6c3ce9;" />
+</a>
 
 </div>
 
@@ -80,34 +90,32 @@ me.say_hi()
 
 <br/>
 
-## � GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karansingh-7773rathore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c3ce9&text_color=c9d1d9&ring_color=6c3ce9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karansingh-7773rathore&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c3ce9&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=555555" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=karansingh7773-rathore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c3ce9&text_color=c9d1d9&ring_color=6c3ce9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karansingh7773-rathore&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c3ce9&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=555555" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansingh-7773rathore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="42%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansingh7773-rathore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="42%" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karansingh-7773rathore&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6c3ce9&point=ff6b6b&area=true&area_color=6c3ce9" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karansingh7773-rathore&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6c3ce9&point=ff6b6b&area=true&area_color=6c3ce9" width="95%" />
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karansingh-7773rathore/karansingh-7773rathore/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karansingh-7773rathore/karansingh-7773rathore/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/karansingh-7773rathore/karansingh-7773rathore/output/github-snake-dark.svg" />
-</picture>
+
+<img src="https://github-profile-trophy.vercel.app/?username=karansingh7773-rathore&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" />
+
 </div>
 
 <br/>
@@ -124,7 +132,7 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=karansingh-7773rathore&style=for-the-badge&color=6c3ce9&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=karansingh7773-rathore&style=for-the-badge&color=6c3ce9&label=Profile+Views" />
 
 <br/><br/>
 
