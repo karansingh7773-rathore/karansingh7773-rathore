@@ -18,7 +18,7 @@
 
 ---
 
-## 🧠 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="About" width="28" /> About Me
 
 ```python
 class KaranSinghRathore:
@@ -37,16 +37,22 @@ me.say_hi()
 
 <br/>
 
-## 🚀 Currently Building — VocalizeAI
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" /> Currently Building — VocalizeAI
 
 <div align="center">
 
 <a href="https://karanscallagentvocalizeai.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Live_Demo-VocalizeAI-6c3ce9?style=for-the-badge&labelColor=0d1117" />
+<img src="public/VoclizeAIsvg.svg" alt="VocalizeAI Logo" width="320" />
+</a>
+
+<br/><br/>
+
+<a href="https://karanscallagentvocalizeai.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-VocalizeAI-6c3ce9?style=for-the-badge&labelColor=0d1117&logo=vercel&logoColor=white" />
 </a>
 &nbsp;
 <a href="https://github.com/karansingh7773-rathore/KaransCallAgentVocalizeAI">
-<img src="https://img.shields.io/badge/📦_Source_Code-GitHub-1a1b27?style=for-the-badge&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/badge/Source_Code-GitHub-1a1b27?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -54,44 +60,54 @@ me.say_hi()
 > **VocalizeAI** — An AI Voice Agent that performs tasks using just your voice commands.  
 > *Think of it as your personal AI assistant that listens, understands, and acts — no buttons needed.*
 
-<br/>
-
-<a href="https://karanscallagentvocalizeai.vercel.app/">
-<img src="public/Screenshot 2026-02-24 144112.png" alt="VocalizeAI Preview" width="85%" style="border-radius: 12px; border: 2px solid #6c3ce9;" />
-</a>
-
 </div>
 
 <br/>
 
-## 🛠️ Tech Arsenal
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> Tech Arsenal
 
 <div align="center">
 
-### ⚡ Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<table>
+<tr>
+<td align="center" width="25%">
 
-### 🤖 AI & Voice
+<img src="https://img.shields.io/badge/-Languages%20%26%20Frameworks-6c3ce9?style=flat-square" /><br/><br/>
+
+<img src="https://skillicons.dev/icons?i=python,typescript,react,fastapi&theme=dark" />
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/-AI%20%26%20Voice-6c3ce9?style=flat-square" /><br/><br/>
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-FF2D55?style=for-the-badge&logo=webrtc&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+</td>
+<td align="center" width="25%">
 
-### 📊 Monitoring
+<img src="https://img.shields.io/badge/-Cloud%20%26%20DevOps-6c3ce9?style=flat-square" /><br/><br/>
+
+<img src="https://skillicons.dev/icons?i=docker,azure,digitalocean&theme=dark" /><br/>
+![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=for-the-badge&logo=vultr&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/-Monitoring-6c3ce9?style=flat-square" /><br/><br/>
+
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-## 📈 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="28" /> GitHub Stats
 
 <div align="center">
 
@@ -111,7 +127,7 @@ me.say_hi()
 
 <br/>
 
-## 🏆 GitHub Trophies
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" /> GitHub Trophies
 
 <div align="center">
 
@@ -121,7 +137,7 @@ me.say_hi()
 
 <br/>
 
-## 💡 Random Dev Quote
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Quote" width="28" /> Random Dev Quote
 
 <div align="center">
 
