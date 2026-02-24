@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:6c3ce9&height=220&section=header&text=Karan%20Singh%20Rathore&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Builder%20%7C%20Explorer%20%7C%20Voice%20AI%20Engineer&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=if+you're+here%2C+you're+definitely+interested+%F0%9F%91%80;Building+AI+that+listens%2C+speaks%2C+and+acts+%F0%9F%8E%99%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&height=40&lines=if+you're+here%2C+you're+definitely+interested+%F0%9F%91%80;Building+AI+that+listens%2C+speaks%2C+and+acts+%F0%9F%8E%99%EF%B8%8F;Voice+is+the+future+of+human-computer+interaction+%F0%9F%94%AE;Turning+research+papers+into+real+products+%F0%9F%93%84;Open+Source+%E2%9D%A4%EF%B8%8F+%7C+Python+%7C+React+%7C+FastAPI+%7C+LangChain" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -122,6 +122,42 @@ me.say_hi()
 
 <!-- Activity Graph -->
 <img src="https://github-activity-graph.vercel.app/graph?username=karansingh7773-rathore&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6c3ce9&point=ff6b6b&area=true&area_color=6c3ce9" width="95%" />
+
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Analytics" width="28" /> GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karansingh7773-rathore&theme=tokyonight" width="95%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=karansingh7773-rathore&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karansingh7773-rathore&theme=tokyonight&utcOffset=5.5" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=karansingh7773-rathore&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=karansingh7773-rathore&theme=tokyonight" width="49%" />
+
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Star" width="28" /> Star History — VocalizeAI
+
+<div align="center">
+
+<a href="https://star-history.com/#karansingh7773-rathore/KaransCallAgentVocalizeAI&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=karansingh7773-rathore/KaransCallAgentVocalizeAI&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=karansingh7773-rathore/KaransCallAgentVocalizeAI&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=karansingh7773-rathore/KaransCallAgentVocalizeAI&type=Date&theme=dark" width="70%" />
+  </picture>
+</a>
 
 </div>
 
