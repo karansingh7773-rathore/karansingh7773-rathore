@@ -12,6 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karansingh7773rathore)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6c3ce9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/karansingh7773-rathore)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karansinghrathore7773@gmail.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/karansingh7773)
 
 </div>
 
@@ -94,17 +95,17 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=karansingh7773-rathore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c3ce9&text_color=c9d1d9&ring_color=6c3ce9" width="49%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=karansingh7773-rathore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=6c3ce9&text_color=c9d1d9&ring_color=6c3ce9" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=karansingh7773-rathore&theme=tokyonight&hide_border=true&background=0d1117&stroke=6c3ce9&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=555555" width="49%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karansingh7773-rathore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="42%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=karansingh7773-rathore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="42%" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karansingh7773-rathore&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6c3ce9&point=ff6b6b&area=true&area_color=6c3ce9" width="95%" />
+<img src="https://github-activity-graph.vercel.app/graph?username=karansingh7773-rathore&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=6c3ce9&point=ff6b6b&area=true&area_color=6c3ce9" width="95%" />
 
 </div>
 
